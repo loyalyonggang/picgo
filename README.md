@@ -1,2 +1,2 @@
 # picgo
-存储
+Store data 
